@@ -1,0 +1,11 @@
+.logo{
+    width: 6rem;
+    margin-left: 2rem;
+}
+
+.cv-contnt{
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
